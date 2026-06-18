@@ -1,0 +1,29 @@
+{
+  "challenges": [
+    {
+      "id": "1",
+      "title": "Walk 5,000 Steps",
+      "level": "Easy",
+      "status": "In Progress"
+    },
+    {
+      "id": "2",
+      "title": "Drink 2 Liters of Water",
+      "level": "Easy",
+      "status": "Not Started"
+    },
+    {
+      "id": "3",
+      "title": "Run 2 Miles",
+      "level": "Medium",
+      "status": "Not Started"
+    },
+    {
+      "title": "Sleep 8 hours/day",
+      "level": "Medium",
+      "status": "Not Started",
+      "id": "0DqW0fuTIS8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
