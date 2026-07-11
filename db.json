@@ -23,6 +23,12 @@
       "level": "Medium",
       "status": "Not Started",
       "id": "0DqW0fuTIS8"
+    },
+    {
+      "title": "Sleep 8 hours/day",
+      "level": "Hard",
+      "status": "In Progress",
+      "id": "VUkTa_tOaSI"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
